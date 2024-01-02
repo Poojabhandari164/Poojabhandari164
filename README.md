@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Poojabhandari164
 - 👀 I’m interested in editing
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on fiverr
+- 🌱 I’m currently learning web development and also DSA perparation
+- 💞️ I’m looking for internships in WEB DEVELOPMENT
 - 📫 How to reach me email :- poojabhandari101010@gmail.com
 
 <!---
