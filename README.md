@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Poojabhandari164
+- 👋 Hi, I’m Pooja
 - 👀 I’m interested in editing
 - 🌱 I’m currently learning web development and also DSA perparation
 - 💞️ I’m looking for internships in WEB DEVELOPMENT
-- 📫 How to reach me email :- poojabhandari101010@gmail.com
+- 📫 How to reach me email :- pooja170822@gmail.com
 
 <!---
 Poojabhandari164/Poojabhandari164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
